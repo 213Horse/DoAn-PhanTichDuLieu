@@ -1,4 +1,5 @@
 Step 1: !git clone https://github.com/WongKinYiu/yolov7 
+
 Step 2: %cd yolov7
 
 Nạp ảnh cần check vào Folder inference/images
